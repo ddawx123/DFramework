@@ -1,5 +1,5 @@
 <?php
-namespace dframework\db;
+namespace kernels\db;
 
 use PDO;
 use PDOException;
